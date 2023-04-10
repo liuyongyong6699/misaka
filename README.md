@@ -10,7 +10,7 @@
 - 拉取整个仓库(部分文件可以单独跑)
   ```
   // 以下几条命令 请不要带着 $/# 一起复制 这两个符号只是代表了所需权限
-  $ git clone https://github.com/yuanter/misaka.git
+  $ git clone https://github.com/liuyongyong6699/misaka.git
 - 安装依赖
   ```
   $ pip3 install -r requirements.txt
@@ -27,10 +27,10 @@
 ### 二. 青龙面板
 - 拉取仓库
   ```
-  ql repo https://github.com/yuanter/misaka.git "" "backUp|tools|JS|logs|login"  "tools|JS|logs|login"
+  ql repo https://github.com/liuyongyong6699/misaka.git "" "backUp|tools|JS|logs|login"  "tools|JS|logs|login"
   
   国内服务器太卡的话用下面这个
-  ql repo http://hub.jasas.eu.org/https://github.com/yuanter/misaka.git "" "backUp|tools|JS|logs|login"  "tools|JS|logs|login"
+  ql repo http://hub.jasas.eu.org/https://github.com/liuyongyong6699/misaka.git "" "backUp|tools|JS|logs|login"  "tools|JS|logs|login"
 - 安装依赖
   ```
   安装依赖pycryptodome出错时，请先在linux中安装gcc、python3-dev、libc-dev三个依赖
