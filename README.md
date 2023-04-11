@@ -30,7 +30,7 @@
   ql repo https://github.com/liuyongyong6699/misaka.git "" "backUp|tools|JS|logs|login"  "tools|JS|logs|login"
   
   国内服务器太卡的话用下面这个
-  ql repo http://hub.jasas.eu.org/https://github.com/liuyongyong6699/misaka.git "" "backUp|tools|JS|logs|login"  "tools|JS|logs|login"
+  ql repo https://ghproxy.com/https://github.com/liuyongyong6699/misaka.git "" "backUp|tools|JS|logs|login"  "tools|JS|logs|login"
 - 安装依赖
   ```
   安装依赖pycryptodome出错时，请先在linux中安装gcc、python3-dev、libc-dev三个依赖
